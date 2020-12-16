@@ -1,6 +1,8 @@
 # Github-User-Finder
 Update the github.js file
-Github API and showing all the Users and there Repository
+
+
+Using Github API and showing all the Users and there Repository
 
 
 
